@@ -8,6 +8,6 @@ Please try the application by yourself.
 Any queries, please mail me at robinabishek@gmail.com
 
 1. put all 3 files under a single folder and open in netbeans(if possible).
-2. Run the filecryptorUI.java file in netbeans(if possible) or run in any java compiler.
+2. Run the FileEncryption.java file in netbeans(if possible) or run in any java compiler.
 3. whence UI is generated, select a file to be encrytped and give a key and press encrypt.
 4. Decrypting is the reverse.
